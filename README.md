@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 A .NET full stack programmer and a gooner and a cat lover
 
-[https://www.cnblogs.com/danvic712/](https://www.cnblogs.com/danvic712/)
-
-[https://juejin.cn/user/395479916479127](https://juejin.cn/user/395479916479127)
-
 ### 🌱 - Where to find Me
+
+1. [https://www.cnblogs.com/danvic712/](https://www.cnblogs.com/danvic712/)
+
+2. [https://juejin.cn/user/395479916479127](https://juejin.cn/user/395479916479127)
+
+### 💬 - Some about Me
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=danvic712&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvic712&layout=compact)
