@@ -21,9 +21,9 @@ A .NET full stack programmer and a gooner and a cat lover
 
 ### 🌱 - Where to find Me
 
-1. [https://www.cnblogs.com/danvic712/](https://www.cnblogs.com/danvic712/)
+[https://www.cnblogs.com/danvic712/](https://www.cnblogs.com/danvic712/)
 
-2. [https://juejin.cn/user/395479916479127](https://juejin.cn/user/395479916479127)
+[https://juejin.cn/user/395479916479127](https://juejin.cn/user/395479916479127)
 
 ### 💬 - Some about Me
 
