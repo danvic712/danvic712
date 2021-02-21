@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Lanesra712/Lanesra712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danvic712/danvic712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 😄 - Who AM I
+### 😄 - Who am I
 
-Born in 1996, growing up in a fourth-tier city in Anhui China, Graduated from Top 10000000 school. A .NET programmer and a gooner, like cat so much. Started the .NET programmer career in December 2016, A firm adherence to Microsoft .NET technology. Hope to be the most powerful programmer for Google-Oriented Programming which raise cat in internet.
+A .NET full stack programmer and a gooner and a cat lover
 
-### 🌱 - Skill Tree
+[https://www.cnblogs.com/danvic712/](https://www.cnblogs.com/danvic712/)
 
-- Familiar with B/S development under .NET platform with C#, familiar with ASP.NET Core development
-- Familiar with sql programming of SQL Server, MySQL, PostgreSQL
-- Familiar with front-end development skills such as HTML, CSS, JavaScript / Jquery, Boostrap, ability to get started developing Angular and Vue projects
-- Writing of documents during software development
+[https://juejin.cn/user/395479916479127](https://juejin.cn/user/395479916479127)
+
+### 🌱 - Where to find Me
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=danvic712&show_icons=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvic712&layout=compact)
