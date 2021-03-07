@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 
 A .NET full stack programmer and a gooner and a cat lover
 
-### 🌱 - Where to find Me
-
-|   Site   | Profle                                                      |
-| :------: | :------------------------------------------------------------ |
-|  博客园  | [https://www.cnblogs.com/danvic712/](https://www.cnblogs.com/danvic712/) |
-| 掘金社区 | [https://juejin.cn/user/395479916479127](https://juejin.cn/user/395479916479127) |
-
 ### 🛠 Tech Stack
 
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)
@@ -44,6 +37,13 @@ A .NET full stack programmer and a gooner and a cat lover
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=danvic712&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvic712&layout=compact)
+
+### 🌱 - Where to find Me
+
+|   Site   | Profle                                                      |
+| :------: | :------------------------------------------------------------ |
+|  博客园  | [https://www.cnblogs.com/danvic712/](https://www.cnblogs.com/danvic712/) |
+| 掘金社区 | [https://juejin.cn/user/395479916479127](https://juejin.cn/user/395479916479127) |
 
 <!--
 ### 🤝🏻 Contact with Me
