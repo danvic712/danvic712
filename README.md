@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 😄 - Who am I
 
-A .NET full stack programmer and a gooner and a cat lover
+A .NET full stack programmer, a gooner and a cat lover
 
 ### 🛠 Tech Stack
 
